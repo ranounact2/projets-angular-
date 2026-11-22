@@ -1,6 +1,6 @@
-package com.oussama.products.repository;
+package .products.repository;
 
-import com.oussama.products.model.Product;
+import .products.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /** Spring Data JPA : fournit findAll, findById, deleteById, save... */

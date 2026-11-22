@@ -1,7 +1,7 @@
-package com.oussama.products.rest;
+package com.rania.products.rest;
 
-import com.oussama.products.model.Product;
-import com.oussama.products.repository.ProductRepository;
+import com.rania.products.model.Product;
+import com.rania.products.repository.ProductRepository;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,7 +1,7 @@
-package com.oussama.products.config;
+package .products.config;
 
-import com.oussama.products.model.Product;
-import com.oussama.products.repository.ProductRepository;
+import com.rania.products.model.Product;
+import com.rania.products.repository.ProductRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package com.oussama.products.model;
+package com.rania.products.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

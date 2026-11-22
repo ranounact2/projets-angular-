@@ -1,4 +1,4 @@
-package com.oussama.products;
+package com.rania.products;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
